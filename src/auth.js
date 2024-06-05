@@ -1,6 +1,6 @@
 // Replace with your actual Spotify Client ID
 const clientId = "d4cf7da295ed4e47b62a53a5ea374c25";
-const redirectUri = "http://localhost:5173/"; // Replace with your redirect URI
+const redirectUri = "https://react-spotify-bay.vercel.app/"; // Replace with your redirect URI
 
 const scopes = [
   "user-read-playback-state",
